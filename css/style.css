@@ -12,8 +12,7 @@
      height:98%;
      font-family:Verdana;
      font-size:11px;
-     background-image:url('https://neothemes.neocities.org/images/roses-bg.gif');
-     background-repeat:repeat;
+     background-color:darkblue;
      color:var(--dkest-color);
      padding:1px;
 }
