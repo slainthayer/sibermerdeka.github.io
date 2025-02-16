@@ -1,77 +1,30 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-   <meta charset="UTF-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>sibermerdeka!</title>
-   <link href="css/style.css" rel="stylesheet" type="text/css" media="all">
-   <link rel="icon" type="image/png" href="https://neothemes.neocities.org/images/favicon.gif" />
+    <meta charset="UTF-8">
+    <title>Language Selector</title>
+    <script>
+        // Check if user already has a stored preference
+        const storedLang = localStorage.getItem('preferredLang');
+        
+        if (storedLang) {
+            // If they have a stored preference, honor it
+            window.location.href = `/${storedLang}/`;
+        } else {
+            // If no stored preference, check browser language
+            const browserLang = navigator.language || navigator.userLanguage;
+            if (browserLang.startsWith('en')) {
+                window.location.href = '/en/';
+            } else {
+                window.location.href = '/bm/';
+            }
+        }
+    </script>
+    <!-- Fallback for no-JS -->
+    <meta http-equiv="refresh" content="0;url=/en/">
 </head>
-
-<body class="scroll">
-   <div id="container">
-      <div id="header">
-         <h1 class="title">sibermerdeka - masa depan alam siber!</h1>
-      </div>
-      <div class="navbar">
-         <ul>
-            <li>
-               <a href="index.html">Laman Utama (BM)</a>
-            </li>
-            <li>
-               <a href="english.html">Main Page (EN)</a>
-            </li>
-            <li>
-               <a href="https://wiki.vitails.dev">Wiki↪</a>
-            </li>
-      </div>
-      <div class="wrapper">
-         <div id="left-sidebar">
-            <div class="section-title">Berita</div>
-            <div class="content">
-               <p>Feb 2025: Kami telah memperolehi ruang alam nyata di Pudu, akan dibuka untuk kuinjungan awam tidak
-                  lama lagi!
-               </p>
-            </div>
-         </div>
-         <div class="main-content">
-            <div class="section-title">Laman Utama</div>
-            <div class="content">
-               <p>Selamat datang ke sibermerdeka! Di sinilah alam maya bertemu dengan alam nyata, dan di sinilah anda
-                  boleh jumpa orang lain yang juga berminat tentang dunia siber ini.</p>
-               <p>Kami adalah kelab komputer yang berakar di Pudu, Kuala Lumpur. Kami berjumpa setiap hari Sabtu di
-                  ruang pomen kami, dan berbincang tentang pelbagai tajuk yang penting dalam era siber ini, antaranya:
-               </p>
-
-               <ul class="list">
-                  <li>Rangkaian komputer dan Jaringan Sejagat (WWW)</li>
-                  <li>Komputer dan kuasanya memengaruhi masyarakat kita</li>
-                  <li>Data awam dan peribadi dan tempatnya dalam kehidupan kita</li>
-               </ul>
-
-               <p>Berminat? Ruang kami terletak berdekatan stesen LRT Pudu atan laluan Ampang dan Sri Petaling. </p>
-
-               <p>Untuk maklumat lanjut, sila hantar e-mel kepada sibermerdeka (di) sibermerdeka.net, dan merujuk kepada
-                  <a href="https://wiki.vitails.dev">wiki</a> kami!
-
-               </p>
-
-            </div>
-         </div>
-         <div id="right-sidebar">
-            <div class="section-title">Heading</div>
-            <div class="content">
-               <p></p>
-            </div>
-         </div>
-      </div>
-   </div>
-   
-   <div id="footer">
-      <p>© Layout by <a href="https://neothemes.neocities.org/" target="_blank">NeoThemes</a></p>
-   </div>
-
+<body>
+    <a href="/en/">English</a>
+    <a href="/bm/">Bahasa Malaysia</a>
 </body>
-
 </html>
