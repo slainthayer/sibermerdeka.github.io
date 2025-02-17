@@ -5,8 +5,15 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>sibermerdeka!</title>
-   <link href="css/style.css" rel="stylesheet" type="text/css" media="all">
+   <link href="../css/style.css" rel="stylesheet" type="text/css" media="all">
    <link rel="icon" type="image/png" href="https://neothemes.neocities.org/images/favicon.gif" />
+   <script>
+      localStorage.setItem('preferredLang', 'en');
+      function switchLanguage(lang) {
+         localStorage.setItem('preferredLang', lang);
+         window.location.href = `/${lang}/`;
+      }
+   </script>
 </head>
 
 <body class="scroll">
@@ -17,13 +24,13 @@
       <div class="navbar">
          <ul>
             <li>
-               <a href="index.html">Laman Utama (BM)</a>
-            </li>
-            <li>
-               <a href="english.html">Main Page (EN)</a>
+               <a href="/">Main Page</a>
             </li>
             <li>
                <a href="https://wiki.vitails.dev">Wiki↪</a>
+            </li>
+            <li>
+               <a href="#" onclick="switchLanguage('en')"><u>EN</u></a> / <a href="#" onclick="switchLanguage('bm')">BM</a>
             </li>
          </ul>
       </div>
