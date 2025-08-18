@@ -10,6 +10,21 @@ RapidKL LRT service runs between 6:00 am and 12:00 am (11:30pm on Sundays and pu
 - Walk 3 blocks until Hotel Bintang, turn right at the stairs with the sign `Klinik Pergigian Lim`
 - Sibermerdeka is on the 3rd floor
 
+Table of last train service:
+| Line    | Station | Destination | Mon-Sat    | Sun/PH | Time to station |
+| :-------- | :-------- | :-------- | :--------: | :--------: | :--------: |
+| LRT Ampang/Sri Petaling  | Pudu | Sentul Timur    | 0020	| 0020 | 10 mins |
+| | | Ampang    | 0011 |	0011 | 10 mins |
+| | | Putra Heights | 0007	| 0007 | 10 mins |
+| LRT Kelana Jaya | Masjid Jamek | Gombak | 0017	| 2347 | 30 mins |
+| | | Putra Heights | 0003	| 2345 | 30 mins |
+| KL Monorail | Hang Tuah | Titiwangsa | 2338	| 2338 | 25 mins |
+| | | KL Sentral | 2410 | 2410 | 25 mins |
+| MRT Kajang | Merdeka | Kwasa Damansara | 0016	| 2344 | 25 mins |
+| | Maluri | Kajang | 0018	| 2349 | 25 mins |
+| MRT Putrajaya | Chan Sow Lin | Kwasa Damansara | 0009	| 2340 | 25 mins |
+| | | Putrajaya | 0023	| 2354 | 25 mins |
+
 ### Getting here by RapidKL bus
 The RapidKL bus service runs daily from 6:00 am to 11:30 pm, with no overnight service. Timetables are often unreliable, with buses generally arrive about every 30 minutes. Check the real-time location of the buses via the web links below.
 
@@ -24,32 +39,7 @@ There are two bus stops right in front of Sibermerdeka: `KL867 LRT Pudu/Majestic
 Rapid On-Demand (ROD) service is also available under the CBD Kuala Lumpur zone. Expect high-demand and long waiting period (>30 mins). The nearest stop is `KL1771 LRT Pudu/Majestic`. Book the service by downloading the app in 
 [Google Play Store](https://play.google.com/store/apps/details?id=com.manjalabs.rapidondemand) or [iOS App Store](https://apps.apple.com/us/app/rapid-on-demand/id6743926083) 
 
-### Gettng here by KTM Komuter
-KTM Komuter service runs daily from 5:30 am to 11:00pm. [The train schedule](https://www.ktmb.com.my/TrainTime.html) are generally inaccurate, expect the train to arrive up to 20 mins behind schedule. The "real-time tracking" is unusable, even at the Komuter stations.
-- Take the train to Bandaraya station
-- Walk across the river to LRT Bandaraya station
-- See the LRT directions above
 
-### Getting here from major transport hubs
-[Kuala Lumpur International Airport (KUL)](https://airports.malaysiaairports.com.my/en/klia1) is the main intenrational and domestic airport located about 60 mins away:  
-- Get on KLIA Transit (**NOT** KLIA Ekspres) to Bandar Tasik Selatan station
-- Change to LRT Sri Petaling line (Line 4 coloured Maroon), then see the LRT directions above
-
-[Subang SkyPark (SZB)](https://www.subangskypark.com/) is the secondary international airport. Although physically closer than KUL, there is no convenient transit option. By transit, it will take around 90 mins (subject to traffic): 
-- Take [Route 772](https://myrapidbus.prasarana.com.my/kiosk?route=834&bus=) bus to `PJ609 LRT Ara Damansara`
-- Get on LRT Kelana Jaya line (Line 5 coloured Pink) to Masjid Jamek station
-- Change to LRT Ampang/Sri Petaling lines (Line 3/4 coloured Orange/Maroon), then see the LRT directions above
-
-[Kuala Lumpur Sentral](http://www.klsentral.com.my/conn_main.aspx) is the main railway station located about 20 mins away:
-- Get on LRT Kelana Jaya line (Line 5 coloured Pink) to Masjid Jamek station
-- Change to LRT Ampang/Sri Petaling lines (Line 3/4 coloured Orange/Maroon), then see the LRT directions above
-
-[Terminal Bersepadu Selatan](http://www.tbsbts.com.my) is the main intercity bus terminal located about 15 mins away:
-- See the LRT directions above
-
-[Terminal Bersepadu Gombak](https://tbg.com.my/) is the secondary bus terminal mainly serving the east coast located about 45 mins away:
-- Get on LRT Kelana Jaya line (Line 5 coloured Pink) to Masjid Jamek station
-- Change to LRT Ampang/Sri Petaling lines (Line 3/4 coloured Orange/Maroon), then see the LRT directions above
 
 ## Driving
 Find us on [Google Maps](https://maps.app.goo.gl/QbpEQrCZCU9o15nU8), [Waze](https://ul.waze.com/ul?place=ChIJZyM5TAA3zDEReO_0wrdoYXs&ll=3.13634960%2C101.71205580), or [OpenStreetMap](https://www.openstreetmap.org/node/12538602858)
