@@ -50,3 +50,14 @@ KTM Komuter service runs daily from 5:30 am to 11:00pm. [The train schedule](htt
 [Terminal Bersepadu Gombak](https://tbg.com.my/) is the secondary bus terminal mainly serving the east coast located about 45 mins away:
 - Get on LRT Kelana Jaya line (Line 5 coloured Pink) to Masjid Jamek station
 - Change to LRT Ampang/Sri Petaling lines (Line 3/4 coloured Orange/Maroon), then see the LRT directions above
+
+## Driving
+Find us on [Google Maps](https://maps.app.goo.gl/QbpEQrCZCU9o15nU8), [Waze](https://ul.waze.com/ul?place=ChIJZyM5TAA3zDEReO_0wrdoYXs&ll=3.13634960%2C101.71205580), or [OpenStreetMap](https://www.openstreetmap.org/node/12538602858)
+
+Backyard parking is available when the landlord’s dental office is closed (Mon-Sat after 6:00 pm, all-day on Sun/PH). The space can accommodates two cars.  
+
+There is no official street parking near the space. If necessary, do street parking on Jalan Brunei 1, but note that it may be subject to police fines. (P/S: Only one case of a fine has been reported so far).
+
+Two off-street yard parking areas are located near the space, with a rate of RM5 per 2 hours. Instead, park at the Hotel D'Majestic parking garage, which charges RM2.12 for the 1st hour and RM1.06 for each subsequent hour, capped at RM5.30 per day.
+
+
