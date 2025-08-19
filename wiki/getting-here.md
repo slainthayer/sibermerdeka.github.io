@@ -1,14 +1,18 @@
+Our address is 392, Jalan Pudu, 55100 Kuala Lumpur, WP Kuala Lumpur, Malaysia  
+
+Find us on [Google Maps](https://maps.app.goo.gl/QbpEQrCZCU9o15nU8), [Waze](https://ul.waze.com/ul?place=ChIJZyM5TAA3zDEReO_0wrdoYXs&ll=3.13634960%2C101.71205580), or [OpenStreetMap](https://www.openstreetmap.org/node/12538602858)
+
+We're located on the 3rd floor right next to the hotel Bintang. On the stairs there'll be a sign saying `Klinik Pergigian Lim`
+*(insert image of the entrance. sample:)*  
+<img width="700" height="356" alt="image" src="https://github.com/user-attachments/assets/f9534221-9f24-44c0-932a-0a16af3128bc" />   
+
+
 ## Public Transit 
 
 ### Getting here by RapidKL LRT (Metro)
 RapidKL LRT service runs between 6:00 am and 12:00 am (11:30pm on Sundays and public holidays). Frequencies are every 2-4 mins during peak hours and every 6-10 mins at other times.
 
-- Get on LRT Ampang/Sri Petaling lines (Line 3/4 coloured Orange/Maroon)
-- Go to Pudu station
-- Exit the faregates, walk straight until the green TNB building and turn left
-- Walk to the main road (Jalan Pudu), cross the road, and turn left
-- Walk 3 blocks until Hotel Bintang, turn right at the stairs with the sign `Klinik Pergigian Lim`
-- Sibermerdeka is on the 3rd floor
+The nearby Pudu LRT station is about 5 mins (300m) away.
 
 Table of last train service:
 | Line    | Station | Destination | Mon-Sat    | Sun/PH | Time to station |
@@ -36,13 +40,13 @@ There are two bus stops right in front of Sibermerdeka: `KL867 LRT Pudu/Majestic
 &nbsp;&nbsp;&nbsp;&nbsp;[Route 580](https://myrapidbus.prasarana.com.my/kiosk?route=486&bus=), to Desa Petaling  
 &nbsp;&nbsp;&nbsp;&nbsp;[Route 590](https://myrapidbus.prasarana.com.my/kiosk?route=488&bus=), to Bandar Sungai Long  
 
-Rapid On-Demand (ROD) service is also available under the CBD Kuala Lumpur zone. Expect high-demand and long waiting period (>30 mins). The nearest stop is `KL1771 LRT Pudu/Majestic`. Book the service by downloading the app in 
+Rapid On-Demand (ROD) service is also available under the CBD Kuala Lumpur zone. Expect high-demand and long waiting period (>30 mins). The nearest stop is `KL1771 LRT Pudu/Majestic`.  
+Book the service by downloading the app in 
 [Google Play Store](https://play.google.com/store/apps/details?id=com.manjalabs.rapidondemand) or [iOS App Store](https://apps.apple.com/us/app/rapid-on-demand/id6743926083) 
 
 
 
 ## Driving
-Find us on [Google Maps](https://maps.app.goo.gl/QbpEQrCZCU9o15nU8), [Waze](https://ul.waze.com/ul?place=ChIJZyM5TAA3zDEReO_0wrdoYXs&ll=3.13634960%2C101.71205580), or [OpenStreetMap](https://www.openstreetmap.org/node/12538602858)
 
 Backyard parking is available when the landlord’s dental office is closed (Mon-Sat after 6:00 pm, all-day on Sun/PH). The space can accommodates two cars.  
 
@@ -50,4 +54,6 @@ There is no official street parking near the space. If necessary, do street park
 
 Two off-street yard parking areas are located near the space, with a rate of RM5 per 2 hours. Instead, park at the Hotel D'Majestic parking garage, which charges RM2.12 for the 1st hour and RM1.06 for each subsequent hour, capped at RM5.30 per day.
 
+## Accessibility
+Unfortunately, our space is NOT wheelchair-accessible.
 
