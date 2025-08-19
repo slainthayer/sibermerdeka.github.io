@@ -12,7 +12,9 @@ Booth Fee: RM500 + RM100 deposit
 CF organizer very much prefer comic/fanarts. So:
 - Sell homestuck fanart first, SM merch later (or maybe as add-on)
 - Targeting cosplayers to come hack their fabric at our hackerspace
-- Get namecards. Set up items to sell our fabric workshop
+- Decorate the booth with fabric hacking/kwikcutmerdeka items.
+- Cosplay doctors. That is a very on-brand thing for SM to do.
+- Namecard and stickers to give out like candy, especially Hiragana ones.
 
 # Social Media
 ### Instagram
